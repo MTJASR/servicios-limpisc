@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,100;1,500;1,600&display=swap');
+
+.navbar-brand {
+     font-family: 'Poppins', sans-serif; 
+     color: blue !important; 
+}
+.texto-principal{
+    font-family: 'Poppins', sans-serif;
+    border-color: black; 
+    border-radius: 1em;
+}
+
+.texto{
+    font-size: 50px;
+    color: blue !important;
+}
+.nav-link{
+    font-family: 'Poppins', sans-serif; 
+    color: blue !important;
+}
+.dropdown-item{
+    font-family: 'Poppins', sans-serif; 
+    color: blue !important;
+}
+.servicio{
+    font-family: 'Poppins', sans-serif; 
+    color: blue !important;
+}
+.footer{
+    font-family: 'Poppins', sans-serif; 
+}
+.navbar{
+    background-color: transparent !important;
+    
+}
+
+.header{
+        background: rgba(61, 61, 61,.7);
+        background: url() no-repeat center;
+        background-size: cover;
+        min-height: 100vh;
+        
+      
+}
+
+.boton{
+    border-radius: 1em;
+    
+}
+
+.input-group-text{
+    background-color:whitesmoke ;
+    color: white;
+    border-radius: 1em;
+}
+
+.navbar-nav > li{
+    padding-left:25px;
+    padding-right:25px;
+  }
+
+  .form-control{
+      border-radius: 1em;
+  }
+
+  .fb-like{
+      border-radius: 1em;
+  }
+
+  .targeta1:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1); 
+            -o-transform:scale(1.1); 
+}
+
+.targeta2:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1);
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1); 
+            -o-transform:scale(1.1); 
+}
+
+.targeta3:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+.facebook:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+.instagram:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+.whatsapp:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+.ini:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+
+.noso:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+.ser:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+            cursor: pointer;
+}
+
+.fb-like:hover{
+    transform:scale(1.1);
+            -ms-transform:scale(1.1); 
+            -moz-transform:scale(1.1); 
+            -webkit-transform:scale(1.1);  
+            -o-transform:scale(1.1); 
+}
+
+
+.navbar-light .navbar-toggler {
+    background-color: #007bff;
+    border-color: rgba(255, 255, 255, 0.85);
+  }
+
+  .navbar-light .navbar-toggler  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.85)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+
+  .card {
+    min-height: 100px !important;
+}
+@media (min-width:768px) {
+    .card-deck > .card
+    {
+        width: 40%;
+        flex-wrap: wrap;
+        flex: initial; 
+    }
+}
+
+
+
